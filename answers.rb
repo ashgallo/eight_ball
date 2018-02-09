@@ -19,4 +19,5 @@ def answers
   "Seems like a bad idea".colorize(:red),
   "Would your mom approve".colorize(:yellow),
   ]
+  #TESTING
 end
